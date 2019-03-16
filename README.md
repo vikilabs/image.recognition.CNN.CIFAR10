@@ -10,3 +10,4 @@ Additional Infos:
     3. Uses PyTkinter for User Interface
     4. Neural Network is implemented using PyTorch
 
+
